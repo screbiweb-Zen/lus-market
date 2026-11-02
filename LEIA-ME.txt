@@ -1,0 +1,11 @@
+LÚ'S MARKET — VERSÃO COM TODOS OS FICHEIROS NA RAIZ
+
+IMPORTANTE: carregue TODOS estes ficheiros diretamente para a raiz do repositório GitHub. Não crie pastas.
+
+Ficheiros: index.html, estilo.css, config.js, produtos.js, app.js, logo.png e as 10 imagens JPG.
+
+O index.html já aponta para os ficheiros na raiz. O config.js aponta para logo.png e produtos.js aponta para as imagens JPG na raiz.
+
+Para publicar: no GitHub Pages, escolha a branch main e a pasta /(root).
+
+Para alterar o WhatsApp, edite a variável WHATSAPP no config.js (formato 244XXXXXXXXX). Para alterar produtos, edite produtos.js.
